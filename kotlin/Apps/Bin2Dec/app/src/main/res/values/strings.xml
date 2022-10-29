@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bin2Dec</string>
+    <string name="imageDescryption">TODO</string>
+    <string name="numberLabel">Número</string>
+    <string name="converterButtonLabel">Converter</string>
+    <string name="resultLabel">Resultado</string>
+</resources>
